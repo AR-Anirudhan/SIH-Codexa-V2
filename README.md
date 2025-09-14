@@ -103,3 +103,50 @@ Visit: [http://localhost:8501](http://localhost:8501)
 
 ## ⚙️ Project Structure
 
+```text
+SIH-Codexa-V2/
+├── app.py           # Streamlit frontend & gamification logic
+├── tutor_engine.py  # AI engine (prompts, lessons, quizzes)
+├── requirements.txt
+└── README.md
+```
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+
+1. Fork the repository  
+2. Create a feature branch  
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+
+Commit your changes
+
+git commit -m "Add some AmazingFeature"
+
+
+Push to your branch
+
+git push origin feature/AmazingFeature
+
+
+Open a Pull Request
+
+📜 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
+
+📧 Contact
+
+AR Anirudhan
+📧 Email: anirudhanksr59@gmail.com
+
+🔗 GitHub: github.com/AR-Anirudhan/SIH-Codexa-V2
+
+💼 LinkedIn: www.linkedin.com/in/ar-anirudhan-data
+
